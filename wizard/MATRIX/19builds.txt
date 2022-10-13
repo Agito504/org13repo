@@ -1,0 +1,19 @@
+
+
+name="cg - MEC -"
+version="1.5"
+url="https://archive.org/download/mec.v-1.5.a/MEC.v1.5.a.zip"
+minor="http://"
+gui="http://"
+kodi="19.4"
+theme="http://"
+icon="http://servermain.diggzwiki.com/builds_old/MEC.icon.png"
+fanart="http://servermain.diggzwiki.com/builds_old/MEC.png"
+preview="http://"
+adult="no"
+info="http://"
+description="MEC - Debrid and Free. Updated: 3rd of October 2022"
+
+
+
+
