@@ -1,7 +1,7 @@
 
 
-name="cg - MEC -"
-version="1.5"
+name="XION"
+version="1.0"
 url="https://www.dropbox.com/s/tvlntf2ys5s4je8/XIONMATRIX.v.1.0.zip"
 minor="http://"
 gui="http://"
@@ -10,7 +10,7 @@ theme="http://"
 icon="https://www.dropbox.com/s/94l8hfca0kk3tdg/icon.png"
 fanart="https://www.dropbox.com/s/eue1b6ucd0sqzw7/fanart.png"
 preview="http://"
-adult="no"
+adult="yes"
 info="http://"
 description="XION Matrix build. Updated: 12th of October 2022"
 
