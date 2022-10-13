@@ -2,17 +2,17 @@
 
 name="cg - MEC -"
 version="1.5"
-url="https://archive.org/download/mec.v-1.5.a/MEC.v1.5.a.zip"
+url="https://www.dropbox.com/s/tvlntf2ys5s4je8/XIONMATRIX.v.1.0.zip"
 minor="http://"
 gui="http://"
 kodi="19.4"
 theme="http://"
-icon="http://servermain.diggzwiki.com/builds_old/MEC.icon.png"
-fanart="http://servermain.diggzwiki.com/builds_old/MEC.png"
+icon="https://www.dropbox.com/s/94l8hfca0kk3tdg/icon.png"
+fanart="https://www.dropbox.com/s/eue1b6ucd0sqzw7/fanart.png"
 preview="http://"
 adult="no"
 info="http://"
-description="MEC - Debrid and Free. Updated: 3rd of October 2022"
+description="XION Matrix build. Updated: 12th of October 2022"
 
 
 
